@@ -1,3 +1,5 @@
+//Peer programming with Tzu Yu
+
 // Iteration #1: Find the maximum
 function maxOfTwoNumbers(a, b) {
 
